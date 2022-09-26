@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+}
+.navbar{
+    background-color: darkorange;
+    
+}
+
+.container a {
+    color: #fff;
+}
+
+.container .row div{
+    margin-top: 100px;
+}
+
+@media screen and (max-width: 767px){
+    .container h5{
+        font-size: 30px;
+    }
+}
